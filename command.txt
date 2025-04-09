@@ -3,3 +3,11 @@ git version
 git clone url
 git push origin
 git remote add origin link
+Workflow of the Git
+
+gitHub repo
+  clone
+    make changes
+      add
+        commit
+            push
