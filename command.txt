@@ -1,0 +1,5 @@
+git status
+git version
+git clone url
+git push origin
+git remote add origin link
